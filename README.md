@@ -10,7 +10,7 @@ Hello World! 😁
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [ag.augusto.rickes@gmail.com](mailto:ag.augusto.rickes@gmail.com)
 * 🧠  I'm learning HTML5, CSS3, Javascript, Angular, Java, Git, AWS, Spring Framework
-* ⚡  🚵 Mountain Bike , 🏎️ Kart , 🔫 CSGO with the squad, 🏃 Running
+* Hobbies'  🚵 Mountain Bike , 🏎️ Kart , 🔫 CSGO with the squad, 🏃 Running
 
 ### Skills
 
