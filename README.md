@@ -23,11 +23,6 @@ Hello World! 😁
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/Augusto Rickes#9222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /><a href="http://www.instagram.com/ag_rickes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-
 ### Badges
 
 <b>My GitHub Stats</b>
