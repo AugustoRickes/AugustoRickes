@@ -27,8 +27,3 @@ v2.4
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Augusto Rickes#9222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><a href="http://www.instagram.com/ag_rickes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/augustorickes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AugustoRickes"><img src="https://github-readme-stats.vercel.app/api?username=AugustoRickes&show_icons=true&hide=prs,issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="AugustoRickes's GitHub stats" /></a>
