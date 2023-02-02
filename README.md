@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustorickes" alt="augustorickes" /></a> </p>
 
-- 🔭 Startup [Easily, Seu caminho mais fácil!](Private Project)
+- 🔭 Startup [Easily, Seu caminho mais fácil!]
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 🤝 I’m looking for help with [Easily, Seu caminho mais fácil!](Private Project)
+- 🤝 I’m looking for help with [Easily, Seu caminho mais fácil!]
 
 - 👨‍💻 All of my projects are available at [https://github.com/AugustoRickes](https://github.com/AugustoRickes)
 
