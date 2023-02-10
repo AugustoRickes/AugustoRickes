@@ -7,13 +7,15 @@
 
 - 🔭 Startup [Easily, Seu caminho mais fácil!]
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Javascript(Empreendev/beAcademy and 
+Testes funcionais com Selenium WebDriver: Do básico ao GRID(Udemy)
+**
 
 - 🤝 I’m looking for help with [Easily, Seu caminho mais fácil!]
 
 - 👨‍💻 All of my projects are available at [https://github.com/AugustoRickes](https://github.com/AugustoRickes)
 
-- 💬 Ask me about **Self Taught | entrepreneurship**
+- 💬 Ask me about **Self Taught | Entrepreneurship**
 
 - 📫 How to reach me **ag.augusto.rickes@gmail.com**
 
