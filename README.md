@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustorickes&theme=dracula" alt="augustorickes" /></a> </p>
 
-- 🔭 Startup [Easily, Seu caminho mais fácil!]
+- 🔭 FinalProject Empreendev [Intergalatic Coffee]
 
 - 🌱 I’m currently learning **Javascript(Empreendev/beAcademy and 
 Testes funcionais com Selenium WebDriver: Do básico ao GRID(Udemy)
