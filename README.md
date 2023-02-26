@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustorickes&theme=dracula" alt="augustorickes" /></a> </p>
 
-- 🔭 FinalProject Empreendev [Intergalatic Coffee]
-
-- 🌱 I’m currently learning **Javascript(Empreendev/beAcademy and 
-Testes funcionais com Selenium WebDriver: Do básico ao GRID(Udemy)
-**
-
-- 🤝 I’m looking for help with [Easily, Seu caminho mais fácil!]
-
 - 👨‍💻 All of my projects are available at [https://github.com/AugustoRickes](https://github.com/AugustoRickes)
 
 - 💬 Ask me about **Self Taught | Entrepreneurship**
