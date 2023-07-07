@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustorickes&theme=dracula" alt="augustorickes" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AugustoRickes](https://github.com/AugustoRickes)
+- 👨‍💻 Please note that all of my projects are currently set to private until I complete my college studies. This decision was made due to instances where other students attempted to copy my projects by cloning my repositories and presenting them as their own.
+
+To ensure fairness and academic integrity, I have taken this measure to protect my work until the completion of my degree. I apologize for any inconvenience this may cause to visitors of my page who were interested in accessing or viewing these projects.
+
+Thank you for your understanding and support. If you have any questions or would like to know more about my work, please feel free to contact me.
 
 - 💬 Ask me about **Self Taught | Entrepreneurship**
 
