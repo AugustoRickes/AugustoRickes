@@ -17,8 +17,6 @@ Thank you for your understanding and support. If you have any questions or would
 
 - ⚡ Fun fact **I play CS:GO**
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64b17cfa5f038d81eeb3ec57?variant=dark" alt="roadmap.sh"/></a>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustorickes&show_icons=true&theme=dracula&locale=en" alt="augustorickes" /></p>
 
 
