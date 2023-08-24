@@ -10,9 +10,3 @@
 This step has been taken to ensure a level playing field and uphold academic integrity. I understand that this might inconvenience visitors to my page who were keen on accessing or viewing these projects. I sincerely apologize for any inconvenience this might cause.
 
 I truly appreciate your understanding and support. If you have any inquiries or would like to learn more about my work, please do not hesitate to reach out.
-
-- 💬 Ask me about **Self Taught | Entrepreneurship**
-
-- 📫 How to reach me **ag.augusto.rickes@gmail.com**
-
-- ⚡ Fun fact **I play CS:GO**
