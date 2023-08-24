@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Augusto Rickes</h1>
-<h3 align="center">A self-taught software engineer from Brazil</h3>
+<h3 align="center">A self-taught Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustorickes&label=Profile%20views&color=0e75b6&style=flat" alt="augustorickes" /> </p>
 
