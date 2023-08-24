@@ -16,7 +16,3 @@ I truly appreciate your understanding and support. If you have any inquiries or 
 - 📫 How to reach me **ag.augusto.rickes@gmail.com**
 
 - ⚡ Fun fact **I play CS:GO**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustorickes&show_icons=true&theme=dracula&locale=en" alt="augustorickes" /></p>
-
-
