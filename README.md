@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustorickes&theme=dracula" alt="augustorickes" /></a> </p>
 
-- 👨‍💻 Please note that all of my projects are currently set to private until I complete my college studies. This decision was made due to instances where other students attempted to copy my projects by cloning my repositories and presenting them as their own.
+- 👨‍💻 Please be aware that all of my projects are currently set to private until I finish my college studies. I have made this decision in response to previous instances where fellow students attempted to plagiarize my projects by cloning my repositories and presenting them as their own.
 
-To ensure fairness and academic integrity, I have taken this measure to protect my work until the completion of my degree. I apologize for any inconvenience this may cause to visitors of my page who were interested in accessing or viewing these projects.
+This step has been taken to ensure a level playing field and uphold academic integrity. I understand that this might inconvenience visitors to my page who were keen on accessing or viewing these projects. I sincerely apologize for any inconvenience this might cause.
 
-Thank you for your understanding and support. If you have any questions or would like to know more about my work, please feel free to contact me.
+I truly appreciate your understanding and support. If you have any inquiries or would like to learn more about my work, please do not hesitate to reach out.
 
 - 💬 Ask me about **Self Taught | Entrepreneurship**
 
