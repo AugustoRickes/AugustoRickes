@@ -5,8 +5,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustorickes&theme=dracula" alt="augustorickes" /></a> </p>
 
-- 👨‍💻 Please be aware that all of my projects are currently set to private until I finish my college studies. I have made this decision in response to previous instances where fellow students attempted to plagiarize my projects by cloning my repositories and presenting them as their own.
-
-This step has been taken to ensure a level playing field and uphold academic integrity. I understand that this might inconvenience visitors to my page who were keen on accessing or viewing these projects. I sincerely apologize for any inconvenience this might cause.
-
-I truly appreciate your understanding and support. If you have any inquiries or would like to learn more about my work, please do not hesitate to reach out.
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b17cfa5f038d81eeb3ec57?variant=dark)](https://roadmap.sh)
