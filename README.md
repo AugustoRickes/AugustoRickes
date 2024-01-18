@@ -5,4 +5,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustorickes&theme=dracula" alt="augustorickes" /></a> </p>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64b17cfa5f038d81eeb3ec57?variant=light" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64b17cfa5f038d81eeb3ec57?variant=dark&roadmaps=backend%2Cqa%2Cdevops%2Caws" alt="roadmap.sh"/></a>
