@@ -12,7 +12,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -34,9 +34,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/AugustoRickes/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/AugustoRickes/AugustoRickes/output/snake.svg" alt="Snake animation" />
 
 ###
