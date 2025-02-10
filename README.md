@@ -18,5 +18,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vuejs logo"  />
 </div>
 
-###
-[![roadmap.sh](https://roadmap.sh/card/wide/64b17cfa5f038d81eeb3ec57?variant=dark&roadmaps=php%2Cbackend%2Cdevops%2Cdocker)](https://roadmap.sh/u/xxxxx)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64b17cfa5f038d81eeb3ec57?variant=light&roadmaps=backend%2Cphp%2Cdocker%2Clinux" alt="roadmap.sh"/></a>
