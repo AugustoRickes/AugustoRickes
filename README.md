@@ -1,4 +1,4 @@
-# Programando o mundo e hackeando a vida!
+# Programando o mundo e hackeando a vida desde 1998!
 
 
 <img src="https://raw.githubusercontent.com/AugustoRickes/AugustoRickes/output/snake.svg" alt="Snake animation" />
