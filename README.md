@@ -1,12 +1,35 @@
-# Programando o mundo e hackeando a vida desde 1998!
-
-
-<img src="https://raw.githubusercontent.com/AugustoRickes/AugustoRickes/output/snake.svg" alt="Snake animation" />
-
-###
+<h1 align="center">Programando o mundo e hackeando a vida desde 98!</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AugustoRickes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AugustoRickes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AugustoRickes&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github.com/user-attachments/assets/97a577a6-8152-4906-a7a8-c21a7df3773e" width="40%">
 </div>
+
+<h2 align="center">Hello, I'm Augusto Rickes 👋</h2>
+
+<p align="center">
+  <em>Open Source Contributor • Community Builder & Events • 1x Hackathon Winner</em>
+</p>
+
+---
+
+### 💻 Tech Stack Highlights
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AugustoRickes&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117"  />
+</p>
+
+---
+
+### 🟩 Latest Commit Energy
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AugustoRickes&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AugustoRickes/AugustoRickes/output/snake.svg" alt="Snake animation" />
+</p>
