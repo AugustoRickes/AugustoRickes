@@ -1,14 +1,15 @@
-<h1 align="center">Programando o mundo e hackeando a vida desde 98!</h1>
+<h1 align="center">Hello, I'm Augusto Rickes 👋</h1>
+
+<p align="center">
+  <em>Open Source Contributor • Community Builder & Events • 1x Hackathon Winner</em>
+</p>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/97a577a6-8152-4906-a7a8-c21a7df3773e" width="40%">
 </div>
 
-<h2 align="center">Hello, I'm Augusto Rickes 👋</h2>
+<h2 align="center">Programando o mundo e hackeando a vida desde 98!</h2>
 
-<p align="center">
-  <em>Open Source Contributor • Community Builder & Events • 1x Hackathon Winner</em>
-</p>
 
 ---
 
@@ -28,8 +29,4 @@
 
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AugustoRickes/AugustoRickes/output/snake.svg" alt="Snake animation" />
 </p>
