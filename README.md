@@ -10,8 +10,14 @@
 
 <h2 align="center">Programando o mundo e hackeando a vida desde 98!</h2>
 
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/augustorickes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ag.augusto.rickes+github@gmail.com">
+    <img src="https://img.shields.io/badge/-contato@augustorickes.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
 ### 💻 Tech Stack Highlights
 
