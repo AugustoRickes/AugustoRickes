@@ -22,7 +22,7 @@
 ### 💻 Tech Stack Highlights
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AugustoRickes&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117"  />
+    <img src="https://augusto-github-readme-stats.vercel.app/api/top-langs?username=AugustoRickes&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117"  />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ### 🟩 Latest Commit Energy
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AugustoRickes&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+<img src="https://augusto-github-readme-stats.vercel.app//api?username=AugustoRickes&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
 
 <p align="center">
