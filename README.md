@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Augusto Rickes 👋</h1>
+<h1 align="center">Yo, I'm Augusto Rickes 🤙</h1>
 
 <p align="center">
-  <strong>Backend Engineer, Core Platform @ Atlas Technologies</strong> · PHP/Laravel · Docker · Linux · Quality Engineering roots
+  <strong>Backend Engineer · Core Platform</strong>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <img src="https://github.com/user-attachments/assets/97a577a6-8152-4906-a7a8-c21a7df3773e" width="40%">
 </div>
 
-<h3 align="center">Programando o mundo e hackeando a vida desde 98!</h3>
+<h3 align="center">Coding the world and hacking life since '98!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/augustorickes/">
@@ -25,33 +25,37 @@
 
 ---
 
-### ⚙️ What I do
+### 🧑‍💻 Who I am
 
-I'm on the **Core Platform team at Atlas Technologies**, building the backend foundation the rest of the engineering org ships on top of: services, internal tooling and the containerized infrastructure that keeps it all running.
+I started out breaking software as a QA Engineer, moved to backend at **Itaú Unibanco**, and now I build the stuff other engineers build on. I still write code thinking about how it'll break.
 
-I got here the unusual way: **~3 years as a QA Engineer** (5 promotions, entry level → mid-level), then backend at **Itaú Unibanco**, the largest private bank in Latin America, and now platform. That's the edge I bring: **I write code thinking about how it breaks.**
+### ⚙️ What I'm doing now
 
-- 🧱 **Platform & Backend:** PHP, Laravel, Java, Spring Boot, REST APIs, MySQL, Redis
-- 🐳 **Infra:** Docker, Linux (daily-drives Arch), CI/CD pipelines
-- 🧪 **Quality & Reliability:** Playwright, Cypress, Selenium, k6 load testing, TypeScript
-- 🤝 **People:** community builder, tech events organizer, hackathon winner
+Backend on the **Core Platform** team at **Atlas Technologies**: services, internal tools and the infra underneath.
 
-### 🛤️ Path
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" />
+</p>
 
-| When | Where | Role |
-| --- | --- | --- |
-| Oct 2026 → now | Atlas Technologies | Backend Engineer, Core Platform (Laravel · Docker · Linux) |
-| Feb → Oct 2026 | Itaú Unibanco | Software Engineer (Java / Spring Boot) |
-| 2023 → 2026 | Atlas Technologies | QA Engineer, Entry 1 → Mid-Level 2 (5 promotions) |
-| 2022 | SoulCode Academy | Java Developer: payments service (GoodPay), help desk (Helpr), accessibility work |
+### 🐧 What I'm into
+
+**Linux, all day.** Arch + Hyprland, dotfiles, shell scripts, the works. *I use Arch btw.*
+
+I also like the layer underneath the code: **networking**. DNS, proxies, VPNs, how packets actually get from A to B, and how it all fits together on AWS.
+
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
 
 ---
-
-### 💻 Tech Stack Highlights
-
-<p align="center">
-  <img src="https://augusto-github-readme-stats.vercel.app/api/top-langs?username=AugustoRickes&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
 
 ### 🟩 Latest Commit Energy
 
