@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm Augusto Rickes 🤙</h1>
+<h1 align="center">Yo, I'm Augusto Silveira 🤙</h1>
 
 <p align="center">
   <strong>Backend Engineer · Core Platform</strong>
