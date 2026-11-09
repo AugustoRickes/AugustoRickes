@@ -27,7 +27,12 @@
 
 ### 🧑‍💻 Who I am
 
-I started out breaking software as a QA Engineer, moved to backend at **Itaú Unibanco**, and now I build the stuff other engineers build on. I still write code thinking about how it'll break.
+Born in '98 in **Cascata**, the 5th district of Pelotas, in southern Brazil 🇧🇷
+
+When I'm not coding, I'm jumping out of planes 🪂 or traveling the world looking for the One Piece 🏴‍☠️. I'm also part of the local tech scene at **[From Dev to Dev](https://www.instagram.com/from_dev_to_dev/)** and **[GDG Pelotas](https://gdg.community.dev/gdg-pelotas/)**.
+
+> *"Só quem se arrisca merece viver o extraordinário."*
+> Only those who take risks deserve to live the extraordinary.
 
 ### ⚙️ What I'm doing now
 
