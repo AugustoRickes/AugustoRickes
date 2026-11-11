@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Open Source Contributor • Community Builder & Events • 1x Hackathon Winner</em>
+  <em>Open Source Contributor • 1x Hackathon Winner</em>
 </p>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 Born in '98 in **Cascata**, the 5th district of Pelotas, in southern Brazil 🇧🇷
 
-When I'm not coding, I'm jumping out of planes 🪂 or traveling the world looking for the One Piece 🏴‍☠️. I'm also part of the local tech scene at **[From Dev to Dev](https://www.instagram.com/from_dev_to_dev/)** and **[GDG Pelotas](https://gdg.community.dev/gdg-pelotas/)**.
+When I'm not coding, I'm jumping out of planes 🪂 or traveling the world looking for the One Piece 🏴‍☠️.
 
 > *"Só quem se arrisca merece viver o extraordinário."*
 > Only those who take risks deserve to live the extraordinary.
@@ -43,21 +43,21 @@ Backend on the **Core Platform** team at **Atlas Technologies**: services, inter
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ### 🐧 What I'm into
 
 **Linux, all day.** Arch + Hyprland, dotfiles, shell scripts, the works. *I use Arch btw.*
 
-I also like the layer underneath the code: **networking**. DNS, proxies, VPNs, how packets actually get from A to B, and how it all fits together on AWS.
+I like understanding the **backbone** my apps run on: networking, operating systems, the fundamentals that have been around since the early days of computer science and aren't going anywhere. Frameworks come and go. TCP/IP stays.
 
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 ---
